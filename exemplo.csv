@@ -1,0 +1,4 @@
+nome, quantidade, preco, disponibilidade
+Televisão, 39, 708.99, True
+Notebook, 89, 2649.99, True
+Mouse, 0, 78.9, False
